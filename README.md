@@ -1,11 +1,3 @@
-Absolutely. This is the README I’d use for your current project — **professional, honest, and portfolio-focused without pretending you built features you didn't.**
-
-Paste this into:
-
-```text
-enterprise-knowledge-platform/README.md
-```
-
 # Enterprise Knowledge Platform
 
 A production-style Retrieval-Augmented Generation (RAG) application for querying enterprise documentation using hybrid retrieval, reranking, and a grounded local LLM.
